@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/WEB-INF/security-app-context.xml</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/WEB-INF/jsp/index.jsp</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/META-INF/context.xml</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/WEB-INF/web.xml</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Rest/RecursoLibro.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/WEB-INF/applicationContext.xml</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Rest/RecursoUsuario.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Servidor/Biblioteca.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Rest/RecursoLogin.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Rest/RecursoAdmin.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Excepciones/LibroInexistente.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/src/java/Excepciones/PermisosInsuficientes.java</file>
+            <file>file:/C:/Users/juanFrancisco/Documents/NetBeansProjects/def/web/WEB-INF/dispatcher-servlet.xml</file>
+        </group>
+    </open-files>
+</project-private>
